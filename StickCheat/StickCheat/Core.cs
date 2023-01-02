@@ -10,7 +10,7 @@ using UnityEngine;
 
 namespace StickCheat
 {
-    public class Core : MelonMod
+    public class Core : MelonMod // Add
     {
 
         
