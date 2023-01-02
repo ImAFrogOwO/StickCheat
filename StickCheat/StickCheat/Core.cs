@@ -12,5 +12,8 @@ namespace StickCheat
 {
     public class Core : MelonMod
     {
+
+        
+
     }
 }
